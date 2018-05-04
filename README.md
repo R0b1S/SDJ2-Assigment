@@ -8,5 +8,6 @@
 
 ### Info:
 1. Path for gson has to be changed.
-2. Code is very simple and not so good (a lot of optimization missing).
-3. Probably something is bad ...
+2. Both client/server are Eclipse projects.
+3. Code is very simple and not so good (a lot of optimization missing).
+4. Probably something is bad ...
