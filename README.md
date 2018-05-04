@@ -8,5 +8,5 @@
 
 ### Info:
 1. Path for gson has to be changed.
-2. Code is very simple and not so good (a looooot of optimization).
+2. Code is very simple and not so good (a lot of optimization missing).
 3. Probably something is bad ...
